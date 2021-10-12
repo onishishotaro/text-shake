@@ -19,23 +19,17 @@
   backface-visibility: hidden;
 }
 .style {
-  font-size: 24px;
+  // margin-top: 50px;
+  font-size: 60px;
+  font-weight: bold;
   text-align: center;
+  color: #fff;
 }
 .section {
   padding: 48vh 0;
   &:not(:last-child) {
     margin-bottom: 50px;
   }
-}
-.sec01 {
-  background: #f0f;
-}
-.sec02 {
-  background: #ff0;
-}
-.sec03 {
-  background: cyan;
 }
 
 @keyframes glitch {
@@ -553,7 +547,7 @@
 
 .img-style {
   padding: 20px 0;
-  background: #fff;
+  background: #000;
   text-align: center;
 }
 

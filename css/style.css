@@ -61,8 +61,10 @@ a:hover {
 }
 
 .style {
-  font-size: 24px;
+  font-size: 60px;
+  font-weight: bold;
   text-align: center;
+  color: #fff;
 }
 
 .section {
@@ -70,18 +72,6 @@ a:hover {
 }
 .section:not(:last-child) {
   margin-bottom: 50px;
-}
-
-.sec01 {
-  background: #f0f;
-}
-
-.sec02 {
-  background: #ff0;
-}
-
-.sec03 {
-  background: cyan;
 }
 
 @-webkit-keyframes glitch {
@@ -1111,7 +1101,7 @@ a:hover {
 }
 .img-style {
   padding: 20px 0;
-  background: #fff;
+  background: #000;
   text-align: center;
 }
 
